@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+/* rem 기준 크기 62.5% = 10px*/
+/* 퍼센트 만들기: 만들크기/기준크기 * 100 = 10/16 * 100 = 62.5% */
+/* 계산공식 50/10 = 5rem */
+html{font-size: 62.5%;}
+*{margin: 0; padding: 0; box-sizing: border-box;}
+ul, ol{list-style: none;}
+a{text-decoration: none; color: inherit;}
+img{vertical-align: middle;}
+caption{display: block;}
+table{border-collapse: collapse; width: 100%;}
+address{font-style: normal;}
